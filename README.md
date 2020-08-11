@@ -1,18 +1,13 @@
-### 你好啊 👋
-    
-    Hi there 👋
-- 扶摇的摸鱼代码集合，没事写点没啥用的小东西。
-  
-  A lazy coding collections of Skyrocketing Hong. Code for useless things.
-- [博客链接](https://skyrocketing.ninja/)
-
-  [Blog Link](https://skyrocketing.ninja/)
-- CTGU
-- 21岁，是学生。
-
-  21 years old, student.
-  
-  21岁、学生です。
+### 你好啊 Hi there 👋
+##### 扶摇的摸鱼代码集合，没事写点~~没啥用的~~小东西。
+##### A lazy coding collections of Skyrocketing Hong. Code for ~~useless~~ something.
+- 🇨🇳 👨‍💻 Introduction
+  - 21岁，是学生
+  - 21 years old, student
+  - 21岁、学生です
+- 🔗 Blog Link: https://skyrocketing.ninja/
+- 🏫 University: CTGU
+- 💬 Language: Chinese, English, Japanese
 
 <!--
 **skyrocketingHong/skyrocketingHong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
