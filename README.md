@@ -1,6 +1,7 @@
 ### 你好啊 Hi there 👋
-##### 扶摇的摸鱼代码集合，没事写点~~没啥用的~~小东西。
-##### A lazy coding collections of Skyrocketing Hong. Code for ~~useless~~ something.
+扶摇的摸鱼代码集合，没事写点~~没啥用的~~小东西。关注的话会回关。
+
+A lazy coding collections of Skyrocketing Hong. Code for ~~useless~~ something. If you follow me I'll follow you back.
 - 🇨🇳 👨‍💻 Introduction
   - 21岁，是学生
   - 21 years old, student
