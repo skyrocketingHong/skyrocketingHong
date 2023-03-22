@@ -3,9 +3,8 @@
 
 A lazy coding collections of skyrocketing Hong. Code for ~~useless~~ something. If you follow me I'll follow you back.
 - 🇨🇳 👨‍💻 Self Introduction
-  - (Date.getYear - 1999) 岁，是学生
-<!--   - (Date.getYear - 1999) years old, student -->
-  - (Date.getYear - 1999) 岁、学生です
+  - (Date.getYear - 1999) years old, student
+  - Graduate students
 - 🔗 Homepage Link: https://skyrocketing.ninja/
 - 🏫 University: [College of Computer and Information Technology, CTGU](https://it.ctgu.edu.cn/)
 - 💬 Language: Chinese, English, Japanese (Only a little)
