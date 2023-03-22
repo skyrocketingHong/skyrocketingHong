@@ -9,7 +9,7 @@ A lazy coding collections of skyrocketing Hong. Code for ~~useless~~ something. 
 - 🔗 Homepage Link: https://skyrocketing.ninja/
 - 🏫 University: [College of Computer and Information Technology, CTGU](https://it.ctgu.edu.cn/)
 - 💬 Language: Chinese, English, Japanese (Only a little)
-- 💻 Programming language: C/C++, Java
+- 💻 Programming language: C/C++, Java, Python, SwiftUI (Plan to learn)
 
 <!--
 **skyrocketingHong/skyrocketingHong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
