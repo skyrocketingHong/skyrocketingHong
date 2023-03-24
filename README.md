@@ -1,14 +1,12 @@
-### 你好啊 Hi there 👋
-扶摇的摸鱼代码集合，没事写点~~没啥用的~~小东西。关注的话会回关。
-
-A lazy coding collections of skyrocketing Hong. Code for ~~useless~~ something. If you follow me I'll follow you back.
+### Hi there 👋
+It is a lazy coding collections of skyrocketing Hong. Code for ~~useless~~ something.
 - 🇨🇳 👨‍💻 Self Introduction
   - (Date.getYear - 1999) years old, student
   - Graduate students
 - 🔗 Homepage Link: https://skyrocketing.ninja/
 - 🏫 University: [College of Computer and Information Technology, CTGU](https://it.ctgu.edu.cn/)
-- 💬 Language: Chinese, English, Japanese (Only a little)
-- 💻 Programming language: C/C++, Java, Python, SwiftUI (Plan to learn)
+- 💬 Languages: Chinese, English, Japanese (Only a little)
+- 💻 Programming languages: C/C++, Java, Python, SwiftUI (Plan to learn)
 
 <!--
 **skyrocketingHong/skyrocketingHong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
