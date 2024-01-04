@@ -1,7 +1,7 @@
 ### 🇨🇳 Hi there 👋
 It is a lazy coding collections of skyrocketing Hong. Code for ~~useless~~ something.
 - 👨‍💻 Age: (new Date().getYear - 1999) years old
-- 🔗 Homepage Link: [https://skyrocketing.ninja/](https://fuyaorocket.ing/)
+- 🔗 Homepage Link: [https://fuyaorocket.ing/](https://fuyaorocket.ing/)
 - 🏫 University: [College of Computer and Information Technology, CTGU](https://it.ctgu.edu.cn/)
 - 💬 Languages: Chinese, English, Japanese (Only a little)
 - 🔧 Skills: <a href="https://www.learn-c.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/core/c.svg" alt="C" width="25" height="25" /></a> <a href="https://cplusplus.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/core/cplus.svg" alt="C++" width="25" height="25" /></a> <a href="https://www.java.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/core/java.svg" alt="Java" width="25" height="25" /></a> <a href="https://www.python.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/core/python.svg" alt="Python" width="25" height="25" /></a>
