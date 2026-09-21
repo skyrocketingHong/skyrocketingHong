@@ -1,0 +1,48 @@
+name: Update contribution snake
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Daily at 00:17 UTC; avoid the busy start of the hour.
+    - cron: "17 0 * * *"
+  push:
+    branches: [master, main]
+    paths:
+      - README.md
+      - README_ZH.md
+      - .github/workflows/snake.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-snake
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    if: github.repository == 'skyrocketingHong/skyrocketingHong'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Generate light and dark SVGs
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake-light.svg?color_snake=%233FB797
+            dist/snake-dark.svg?palette=github-dark&color_snake=%233FB797
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Reserve this branch for generated assets. Default-branch files are untouched.
+      - name: Publish generated assets
+        uses: crazy-max/ghaction-github-pages@v5
+        with:
+          target_branch: profile-snake
+          build_dir: dist
+          keep_history: true
+          allow_empty_commit: false
+          commit_message: "chore(profile): refresh contribution snake"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
