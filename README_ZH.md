@@ -4,6 +4,8 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=18&amp;duration=3000&amp;pause=1800&amp;color=3FB797&amp;vCenter=true&amp;width=460&amp;height=32&amp;lines=Code+for+useful+things.;Clear+boundaries.+Native+experiences." alt="Code for useful things. Clear boundaries. Native experiences." width="460" height="32">
 
+<img src="mcd-card-native.svg" alt="麦门名片 McReadme Card" width="460" height="257">
+
 **计算机技术硕士 · 科研技术专员**
 
 从事声纹监测、AI 工程化与机器人应用相关工作，连接设备、数据与软件。业余开发 macOS、Android 和 Web 实用工具。

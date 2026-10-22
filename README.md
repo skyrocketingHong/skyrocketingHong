@@ -4,6 +4,8 @@ English | [简体中文](README_ZH.md)
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=18&amp;duration=3000&amp;pause=1800&amp;color=3FB797&amp;vCenter=true&amp;width=460&amp;height=32&amp;lines=Code+for+useful+things.;Clear+boundaries.+Native+experiences." alt="Code for useful things. Clear boundaries. Native experiences." width="460" height="32">
 
+<img src="mcd-card-native.svg" alt="McReadme Card" width="460" height="257">
+
 **Master’s in Computer Technology · Research & Engineering Specialist**
 
 I work on acoustic monitoring, AI integration, and robotics applications, connecting devices, data, and software. Outside work, I build practical tools for macOS, Android, and the web.
